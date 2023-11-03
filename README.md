@@ -1,4 +1,4 @@
-# COUSTOMER-SALES-ANALYSIS
+# COUSTOMER-SALES-ANALYSIS  Python Project
 Performed Data cleaning and manipulation on python
 Improved customer experience by identifying potential  customers across different states, occupation, gender and age group
 Aggregated and visualized the data by using pandas, matplotlib and seaborn to compile a professional report
